@@ -7,9 +7,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 https://github.com/user-attachments/assets/46ec9593-7443-4a95-86ae-dfc090c9256d
 
-https://github.com/user-attachments/assets/68e0aafd-3398-4b6f-b067-b6beac6ce7d0
-
-
 
 
 
