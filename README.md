@@ -12,4 +12,3 @@ Currently, two official plugins are available:
 =======
 # ResumeGenerator
 SmartResume Generator: Customized Resumes for Every Opportunity
->>>>>>> 9e0644e4df9437d9c364f8413d24206ff519c97b
