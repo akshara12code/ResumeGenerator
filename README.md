@@ -4,7 +4,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 
 
-<video src="https://drive.google.com/uc?id=14rzsJse8HU6KLQ-KNnrudWrPNfJ4-JoC&export=download" controls></video>
+[![Watch the video](path/to/thumbnail.png)](https://drive.google.com/uc?id=14rzsJse8HU6KLQ-KNnrudWrPNfJ4-JoC&export=download)
+
 
 
 
